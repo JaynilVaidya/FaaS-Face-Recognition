@@ -1,6 +1,7 @@
 # FaaS Face Recognition
 
-![FaaS Face Recognition](https://github.com/JaynilVaidya/FaaS-Face-Recognition/raw/main/FaaS_Face_Recognition.png)
+![FaaS Face Recognition](https://github.com/JaynilVaidya/FaaS-Face-Recognition/blob/origin/system-design.jpg)
+
 
 ## Overview
 
